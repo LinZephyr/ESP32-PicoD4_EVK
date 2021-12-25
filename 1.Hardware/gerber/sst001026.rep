@@ -1,8 +1,8 @@
 
 
-光绘图机开孔报告
-================
-位置      宽度  高度/ID  形状     数量
+Photo-Plotter Apertures Report
+==============================
+Position  Width  Hgt/ID  Shape    Qty
 ========  =====  ======  =====    ===
    10      0.0254       0    RND     193
    11      0.254       0    RND       9
