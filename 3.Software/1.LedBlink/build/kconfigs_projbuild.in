@@ -1,0 +1,5 @@
+source "D:/learn/5.esp32/ESP-IDF/esp-idf/components/app_update/Kconfig.projbuild"
+source "D:/learn/5.esp32/ESP-IDF/esp-idf/components/bootloader/Kconfig.projbuild"
+source "D:/learn/5.esp32/ESP-IDF/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "D:/learn/5.esp32/ESP-IDF/esp-idf/components/partition_table/Kconfig.projbuild"
+source "D:/learn/5.esp32/my_project/7.ESP32-PicoD4_EVK/3.Software/1.LedBlink/main/Kconfig.projbuild"

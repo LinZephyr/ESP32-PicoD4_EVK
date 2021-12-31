@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/learn/5.esp32/my_project/7.ESP32-PicoD4_EVK/3.Software/1.LedBlink/build/CMakeFiles/bootloader
+D:/learn/5.esp32/my_project/7.ESP32-PicoD4_EVK/3.Software/1.LedBlink/build/CMakeFiles/bootloader.rule
+D:/learn/5.esp32/my_project/7.ESP32-PicoD4_EVK/3.Software/1.LedBlink/build/CMakeFiles/bootloader-complete.rule
+D:/learn/5.esp32/my_project/7.ESP32-PicoD4_EVK/3.Software/1.LedBlink/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/learn/5.esp32/my_project/7.ESP32-PicoD4_EVK/3.Software/1.LedBlink/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/learn/5.esp32/my_project/7.ESP32-PicoD4_EVK/3.Software/1.LedBlink/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/learn/5.esp32/my_project/7.ESP32-PicoD4_EVK/3.Software/1.LedBlink/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+D:/learn/5.esp32/my_project/7.ESP32-PicoD4_EVK/3.Software/1.LedBlink/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/learn/5.esp32/my_project/7.ESP32-PicoD4_EVK/3.Software/1.LedBlink/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/learn/5.esp32/my_project/7.ESP32-PicoD4_EVK/3.Software/1.LedBlink/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

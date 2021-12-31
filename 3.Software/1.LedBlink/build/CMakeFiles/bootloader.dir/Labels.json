@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/learn/5.esp32/my_project/7.ESP32-PicoD4_EVK/3.Software/1.LedBlink/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "D:/learn/5.esp32/my_project/7.ESP32-PicoD4_EVK/3.Software/1.LedBlink/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "D:/learn/5.esp32/my_project/7.ESP32-PicoD4_EVK/3.Software/1.LedBlink/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "D:/learn/5.esp32/my_project/7.ESP32-PicoD4_EVK/3.Software/1.LedBlink/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "D:/learn/5.esp32/my_project/7.ESP32-PicoD4_EVK/3.Software/1.LedBlink/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "D:/learn/5.esp32/my_project/7.ESP32-PicoD4_EVK/3.Software/1.LedBlink/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "D:/learn/5.esp32/my_project/7.ESP32-PicoD4_EVK/3.Software/1.LedBlink/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		},
+		{
+			"file" : "D:/learn/5.esp32/my_project/7.ESP32-PicoD4_EVK/3.Software/1.LedBlink/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "D:/learn/5.esp32/my_project/7.ESP32-PicoD4_EVK/3.Software/1.LedBlink/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "D:/learn/5.esp32/my_project/7.ESP32-PicoD4_EVK/3.Software/1.LedBlink/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
